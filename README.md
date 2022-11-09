@@ -1,8 +1,22 @@
-# Getting Started with Create React App
+# Storefront
+
+## Author: Teresa Phillips
+
+## Problem Domain
+
+Create a virtual store app that allows users to browse our product catalogue, place items in their shopping cart and check-out when ready to purchase.
+
+## Technologies Used
+
+React
+Redux
+Material UI
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
